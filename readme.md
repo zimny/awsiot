@@ -21,7 +21,7 @@ aws iot create-keys-and-certificate \
 3. register a thing type
 
     1. Go to AWS console
-    2. Select London region
+    2. Select Ireland region
     3. Go to IoT Core
     4. Manage
     5. Types
